@@ -85,7 +85,6 @@ class Program
                 return league;
             }
         }
-
         public userClub(string userTeamName, string userColors, string userCountry, string userCity, string userLeague)
         {
             name = userTeamName;
@@ -148,5 +147,4 @@ class Program
             Console.WriteLine("Thanks for visting my program :)");
         }
     }
-    
 }
